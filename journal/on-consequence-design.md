@@ -1,7 +1,7 @@
 ---
 date: 2020-04-25
 title: On Consequence Design
-author: Nichlas W. Andersen
+author: Ron Bronson
 excerpt: Initial thoughts about consequence design
 
 ---
