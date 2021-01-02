@@ -1,8 +1,8 @@
 {
   "footer": "Built with Forestry, NodeJS, Netlify & Github",
-  "dark_mode": false,
+  "dark_mode": true,
   "site_name": "Consequence Design",
-  "site_description": "",
+  "site_description": "A place to think aloud about the present & future of service design",
   "hero_title": "Consequence Design",
   "hero_subtitle": "Reimagining the resilience of service design"
 }
